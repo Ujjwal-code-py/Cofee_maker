@@ -27,6 +27,7 @@ This is a simple Coffee Maker program written in Python. It allows users to orde
 - Dime: $0.10
 - Nickel: $0.05
 - Penny: $0.01
+![image](https://github.com/user-attachments/assets/c897c574-ae2d-4db2-8ff8-6068b40d34e0)
 
 ## Example Usage
 ```
